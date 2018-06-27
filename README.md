@@ -1,3 +1,5 @@
+![Image of the 3D printed key](https://github.com/webjocke/3D-Printed-Keyboard-Key-Project/raw/master/in_keyboard_picture.jpg "A image of the final 3d printed key")
+
 # The 3D Printed Keyboard Key Project
 This is a project I made back in high school, April 2014. My dad had lost one of the most valuable keys on his keyboard. The number one key. So I decided to create a new one for him using my school's 3D printer.
 
